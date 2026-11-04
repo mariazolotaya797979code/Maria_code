@@ -40,3 +40,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local notes, not for the repository
+/инструкция.md
+
+# python
+/venv/
